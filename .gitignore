@@ -1,6 +1,6 @@
 # dependencies
 /node_modules
-
+/.idea
 # testing
 /coverage
 /cypress/videos
@@ -30,3 +30,5 @@ public/extra-*
 *.ignored.*
 ignored/
 .eslintcache
+
+output.txt
